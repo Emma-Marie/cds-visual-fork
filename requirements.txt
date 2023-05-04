@@ -4,3 +4,4 @@ tensorflow-cpu
 numpy
 pandas
 opencv-python
+scikeras
